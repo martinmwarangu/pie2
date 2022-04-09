@@ -1,0 +1,7 @@
+<div class="jumbotron">
+                <div class="container">
+                  <h1 class="dispaly-4">Apple pie</h1>
+                  <p class="lead">Our famous, number-one selling pie.</p>
+                   <div class="alert alert-success"><strong>Success!</strong> Apple pie was added to your cart</div>
+                   </div> 
+           </div>
